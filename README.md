@@ -2,7 +2,7 @@
 <img width="100px" align="center" src="https://avatars.githubusercontent.com/u/74017645?s=200&v=4">
 </div>
 
-# <div align="center">MaRDA Metadata Extractors: Discussions & Minutes</div>
+# <div align="center">MaRDA Autonomous Laboratories Working Group: Discussions & Minutes</div>
 
 <div align="center">
 
